@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EzequielMejiasMelo
 - 👀 I’m interested in software development and cinema.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on any interesting projects within my scope(entry-level).
 - 📫 How to reach me ezequiel.mejiasmelo@gmail.com :)
 
